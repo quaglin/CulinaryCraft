@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties version="1.0">
+	<comment>English (US) Localization File</comment>
+	<entry key="item.chefKnife.name">Chef's Knife</entry>
+	<entry key="itemGroup.CC">Culinary Craft</entry>
+</properties>	
